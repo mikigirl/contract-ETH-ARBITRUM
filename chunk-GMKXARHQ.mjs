@@ -1,0 +1,2 @@
+var e=t=>typeof t=="string"?t:String(t),a=t=>({bodyClassName:"framer-body-lTShkWOtr",breakpoints:[{hash:"1p1s0pj"}],elements:{},title:`${t?.F2WVaokd_!==void 0?e(t.F2WVaokd_):"{{F2WVaokd_}}"} - Brydge - Making DeFi and NFTs Accessible to Retail`,viewport:"width=1200"}),i=a,d=1,s={exports:{metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},default:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{i as a,d as b,s as c};
+//# sourceMappingURL=chunk-GMKXARHQ.mjs.map
